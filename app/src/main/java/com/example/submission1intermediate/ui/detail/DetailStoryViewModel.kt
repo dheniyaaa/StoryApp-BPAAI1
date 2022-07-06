@@ -1,0 +1,3 @@
+package com.example.submission1intermediate.ui.detail
+
+class DetailStoryViewModel

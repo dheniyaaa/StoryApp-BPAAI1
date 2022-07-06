@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Submission 1 Intermediate</string>
+    <string name="Password">Password</string>
+    <string name="error_password">Kata sandi harus kurang dari 6 karakter</string>
+    <string name="error_blank">Tidak boleh kosong</string>
+    <string name="title_ss">SHARE YOUR STORY</string>
+    <string name="login">login</string>
+    <string name="email">Email</string>
+    <string name="or">or</string>
+    <string name="register">register</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="dicoding">dicoding</string>
+    <string name="description">Deskripsi gambar di ats adalah seperti berikut. Gammbar di ats terdiri dari satu warna , yaitu warna biru</string>
+    <string name="add_story">Add Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="deskripri_add_story">Deskripri</string>
+    <string name="upload">Upload</string>
+    <string name="username_detail">username</string>
+    <string name="storyapp">StoryApp</string>
+    <string name="registrasi_succes">Registration success</string>
+    <string name="registration_failure">Registration failure</string>
+    <string name="login_success">Login Success</string>
+    <string name="login_failure">Login Failure</string>
+    <string name="permission">Tidak mendapatkan permission</string>
+    <string name="select_image">Please select an image</string>
+    <string name="add_story_success">Add Story Success</string>
+</resources>
