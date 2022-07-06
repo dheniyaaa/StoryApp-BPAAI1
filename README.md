@@ -16,6 +16,7 @@ Apps Features
 - Motion animation
 - Authentication (register, login, logout)
 - List story
+- Detail story
 - Add story
 
 ![Devices splash](https://user-images.githubusercontent.com/81451454/177535397-942aa321-69e6-42d5-8fb6-b2095f876716.png)
